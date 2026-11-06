@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ماشین حساب</string>
+
+    <string name="result_default">نتیجه:</string>
+    <string name="result_format">نتیجه: %1$s</string>
+
+    <string name="error_empty">لطفاً هر دو عدد را وارد کنید</string>
+    <string name="error_divide_zero">تقسیم بر صفر امکان‌پذیر نیست</string>
+
+    <string name="clear_button">پاک کردن</string>
+    <string name="number1_hint">عدد اول را وارد کنید</string>
+    <string name="number2_hint">عدد دوم را وارد کنید</string>
+
+    <string name="btn_add">جمع +</string>
+    <string name="btn_subtract">تفریق -</string>
+    <string name="btn_multiply">ضرب ×</string>
+    <string name="btn_divide">تقسیم ÷</string>
+</resources>
